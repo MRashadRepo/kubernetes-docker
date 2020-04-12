@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+[![CircleCI](https://circleci.com/gh/MRashadRepo/kubernetes-docker.svg?style=svg)](https://app.circleci.com/pipelines/github/MRashadRepo/kubernetes-docker)
 
 ## Project Overview
 
