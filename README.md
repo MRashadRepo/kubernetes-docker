@@ -1,4 +1,4 @@
-[![CircleCI](https://circleci.com/gh/MRashadRepo/tree/circleci-project-setup/kubernetes-docker.svg?style=shield)](https://app.circleci.com/pipelines/gh/MRashadRepo/kubernetes-docker/tree/circleci-project-setup)
+[![CircleCI](https://circleci.com/gh/MRashadRepo/kubernetes-docker/tree/circleci-project-setup.svg?style=svg)](https://app.circleci.com/pipelines/gh/MRashadRepo/kubernetes-docker/tree/circleci-project-setup)
 
 ## Project Overview
 
